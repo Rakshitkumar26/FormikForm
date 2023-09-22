@@ -1,0 +1,58 @@
+{
+  "role": "",
+  "guestOptions": {
+    "option1": false,
+    "option2": false,
+    "option3": false
+  },
+  "additionalFields": {
+    "option1": {
+      "dropdown": "",
+      "percentage": "",
+      "dollars": "",
+      "radio": "",
+      "number": ""
+    },
+    "option2": {
+      "dropdown": "",
+      "percentage": "",
+      "dollars": "",
+      "radio": "",
+      "number": ""
+    },
+    "option3": {
+      "dropdown": "",
+      "percentage": "",
+      "dollars": "",
+      "radio": "",
+      "number": ""
+    }
+  },
+  "dropdownOptions": [],
+  "dropdownSelectedOptions": {
+    "dropdownOptions1": {
+      "newDropDown1": "",
+      "newDropDown2": ""
+    },
+    "dropdownOptions2": {
+      "newDropDown1": "",
+      "newDropDown2": ""
+    },
+    "dropdownOptions3": {
+      "newDropDown1": "",
+      "newDropDown2": ""
+    },
+    "dropdownOptions4": {
+      "newDropDown1": "",
+      "newDropDown2": ""
+    },
+    "dropdownOptions5": {
+      "newDropDown1": "",
+      "newDropDown2": ""
+    },
+    "dropdownOptions6": {
+      "newDropDown1": "",
+      "newDropDown2": ""
+    }
+  }
+}
